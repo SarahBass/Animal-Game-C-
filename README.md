@@ -34,7 +34,7 @@ However, mammals and bugs are more tricky and they needed a lot more attention t
     include zebras, horses, donkeys, deer, antelope, and so on. 
 
     Then there are really special animals that need an image
-    entirely to themselves like elephants rhinos.
+    entirely to themselves like elephants or rhinos.
 
 ➁ As you play, the program takes in your input, runs it throught
  a ton of == operators and if/else if statements to determine which pointer to assign it to,
