@@ -46,12 +46,11 @@ temporary database for not-found animals.
    Example of the database a cow:  
 -------------------------------------
     
-    ((animal == "cow") || (animal == "COW") || (animal == "cOW") || (animal == "coW") || (animal == "cOw") || 
-    (animal == "calf") || (animal == "heifer") || (animal == "bovine") || (animal == "ox") || (animal == "bull") ||
+    ((animal == "cow") || (animal == "calf") || (animal == "heifer") || (animal == "bovine") ||
     (animal == "bison") || (animal == "livestock") || (animal == "oxen") || (animal == "moo")||
     (animal == "cattle") || (animal == "buffalo") || (animal == "yak") || (animal == "gaur") ||
-    (animal == "bovidae") || (animal == "gnew") || (animal == "zebu") || (animal == "banteng") ||
-    (animal == "wisent") || (animal == "gayal") || (animal == "monique") || (animal == "taurine") ||
+    (animal == "bovidae") || (animal == "gnew") || (animal == "zebu") || (animal == "banteng") || (animal == "bull") ||
+    (animal == "wisent") || (animal == "gayal") || (animal == "monique") || (animal == "taurine") || (animal == "ox") ||
     (animal == "veal") || (animal == "hamburger") || (animal == "milk") || (animal == "steak") || (animal == "steer") ||
     (animal == "beef") || (animal == "freemartin") || (animal == "dogie") || (animal == "maverick"))
     
